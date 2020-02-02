@@ -15,6 +15,6 @@
 # on 4th screen, you can see the data you entered and selection you made.
 --initial table data is not shown here.
 
-#components folder has inidvidual components in project directory.
+# components folder has inidvidual components in project directory.
 
 # css is present in assets folder.
